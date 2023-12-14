@@ -42,7 +42,7 @@ Before running the project, ensure you have the following dependencies installed
 ## Installation
 
 1. **Clone the repository:**
-https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator.git
+ 
     ```bash
     git clone https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator.git
     ```
