@@ -1,6 +1,6 @@
-# Minimal Process Scheduler
+# Dynamic Process Scheduler Simulator
 
-The **Minimal Process Scheduler** is a project that simulates a process scheduler. It generates random processes based on user input and allows simulation of multiple scheduling algorithms, including FIFO, Priority, SRT (Shortest Remaining Time), Round Robin, and Multilevel. Additionally, the project features a dynamic menu with an option to add other scheduling algorithms. The graphical user interface (GUI) is implemented using GTK3.
+The **Dynamic Process Scheduler Simulator** is a project that simulates a process scheduler. It generates random processes based on user input and allows simulation of multiple scheduling algorithms, including FIFO, Priority, SRT (Shortest Remaining Time), Round Robin, and Multilevel. Additionally, the project features a dynamic menu with an option to add other scheduling algorithms. The graphical user interface (GUI) is implemented using GTK3.
 
 ## Table of Contents
 - [Features](#features)
